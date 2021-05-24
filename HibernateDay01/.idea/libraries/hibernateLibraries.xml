@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="hibernateLibraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/libs/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/hibernate-core-5.0.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/hibernate-entitymanager-5.0.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/jandex-2.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/jboss-logging-3.3.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/libs/slf4j-log4j12-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
