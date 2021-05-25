@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29288a19-1825-47f9-86d7-cc0387bc9b90" name="Default Changelist" comment="" />
+    <list default="true" id="29288a19-1825-47f9-86d7-cc0387bc9b90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/out/production/HibernateDay01/com/xinlei/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/out/production/HibernateDay01/com/xinlei/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/out/production/HibernateDay01/com/xinlei/test/HibernateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/out/production/HibernateDay01/com/xinlei/utils/HibernateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/out/production/HibernateDay01/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/out/production/HibernateDay01/hibernate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/src/com/xinlei/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/src/com/xinlei/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/src/com/xinlei/test/HibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/src/com/xinlei/utils/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/src/hibernate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/hibernate-core-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/hibernate-entitymanager-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/jandex-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/mysql-connector-java-5.0.4-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/slf4j-api-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateDay02/web/libs/slf4j-log4j12-1.7.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,23 +59,40 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="hibernate.xml" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1syMvB6kcRbxTIwS43EBoJEnuFd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/libs" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -36,7 +102,7 @@
       <recent name="D:\program files\IdeaProjects\HibernateLearn\HibernateDay01\web\libs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.HibernateTest.testAdd2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.xinlei.Main" />
       <module name="HibernateDay01" />
@@ -47,19 +113,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HibernateTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HibernateDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xinlei.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xinlei.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateTest.testAdd2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HibernateDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xinlei.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xinlei.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest" />
+      <option name="METHOD_NAME" value="testAdd2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HibernateTest.testAdd2" />
+        <item itemvalue="JUnit.HibernateTest.testAdd" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="29288a19-1825-47f9-86d7-cc0387bc9b90" name="Default Changelist" comment="" />
@@ -68,11 +177,26 @@
       <option name="presentableId" value="Default" />
       <updated>1621840605285</updated>
       <workItem from="1621840606465" duration="5308000" />
+      <workItem from="1621903152276" duration="12454000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1621845221427">
@@ -83,9 +207,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="183" y="200" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621840624488" />
-    <state x="243" y="278" key="SettingsEditor" timestamp="1621844862794">
+    <state width="1042" height="299" key="GridCell.Tab.0.bottom" timestamp="1621926175529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="243" y="278" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621844862794" />
+    <state width="1042" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621926175529" />
+    <state width="1042" height="299" key="GridCell.Tab.0.center" timestamp="1621926175529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1042" height="299" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621926175529" />
+    <state width="1042" height="299" key="GridCell.Tab.0.left" timestamp="1621926175529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1042" height="299" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621926175529" />
+    <state width="1042" height="299" key="GridCell.Tab.0.right" timestamp="1621926175529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1042" height="299" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621926175529" />
+    <state x="243" y="278" key="SettingsEditor" timestamp="1621910434788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="243" y="278" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621910434788" />
+    <state x="279" y="416" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621907437391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="416" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1621907437391" />
+    <state x="0" y="164" key="new project wizard" timestamp="1621926086564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="164" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1621926086564" />
+    <state x="244" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1621907690199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="244" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621907690199" />
   </component>
 </project>
