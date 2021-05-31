@@ -5,7 +5,9 @@ import com.xinlei.utils.HibernateUtils;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
 import org.junit.Test;
+
 
 public class HibernateTest2 {
     @Test
@@ -27,6 +29,24 @@ public class HibernateTest2 {
         //提交事务
         transaction.commit();
         //关闭链接
+        session.close();
+        sessionFactory.close();
+    }
+    @Test
+    //一级缓存特性
+    public void testDemo(){
+        Configuration cfg=new Configuration();
+        cfg.configure();
+        SessionFactory sessionFactory = cfg.buildSessionFactory();
+        Session session = sessionFactory.openSession();
+        Transaction transaction = session.beginTransaction();
+
+        //1. 根据id查询
+        UserDay02 userDay02 = session.get(UserDay02.class, 5);
+        //2. 设置返回对象值
+        userDay02.setUserName("小肥羊");
+
+        transaction.commit();
         session.close();
         sessionFactory.close();
     }
