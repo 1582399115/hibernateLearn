@@ -17,7 +17,10 @@ public class HibernateUtils {
         cfg.configure();
         sessionFactory = cfg.buildSessionFactory();
     }
-
+    //提供返回与本地线程的session的方法
+    public static Session getSessionobject(){
+        return sessionFactory.getCurrentSession();
+    }
     //提供方法返回sessionFactory
     public static SessionFactory getSessionFactory() {
         return sessionFactory;
