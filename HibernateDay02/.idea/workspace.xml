@@ -19,38 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29288a19-1825-47f9-86d7-cc0387bc9b90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/HibernateDay01/com/xinlei/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HibernateDay01/com/xinlei/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HibernateDay01/com/xinlei/test/HibernateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HibernateDay01/com/xinlei/utils/HibernateUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HibernateDay01/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HibernateDay01/hibernate.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xinlei/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xinlei/entity/UserDay02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xinlei/test/HibernateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xinlei/utils/HibernateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/hibernate-core-5.0.7.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/hibernate-entitymanager-5.0.7.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/jandex-2.0.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/javassist-3.18.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/jboss-logging-3.3.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/mysql-connector-java-5.0.4-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/slf4j-api-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/libs/slf4j-log4j12-1.7.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HibernateDay01/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateDay01/src/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HibernateDay01/src/hibernate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateDay01/src/hibernate.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29288a19-1825-47f9-86d7-cc0387bc9b90" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +71,7 @@
       <recent name="D:\program files\IdeaProjects\HibernateLearn\HibernateDay01\web\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HibernateTest2.testGet">
+  <component name="RunManager" selected="JUnit.HibernateTest2.useSQLQuery">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -114,7 +83,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HibernateTest2.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateTest2.testDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HibernateDay02" />
       <extension name="coverage">
         <pattern>
@@ -124,13 +93,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.xinlei.test" />
       <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest2" />
-      <option name="METHOD_NAME" value="testGet" />
+      <option name="METHOD_NAME" value="testDemo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HibernateTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateTest2.testTran" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HibernateDay02" />
       <extension name="coverage">
         <pattern>
@@ -139,14 +108,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xinlei.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest" />
-      <option name="METHOD_NAME" value="testDelete" />
+      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest2" />
+      <option name="METHOD_NAME" value="testTran" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HibernateTest.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateTest2.testTran1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HibernateDay02" />
       <extension name="coverage">
         <pattern>
@@ -155,14 +124,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xinlei.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest" />
-      <option name="METHOD_NAME" value="testGet" />
+      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest2" />
+      <option name="METHOD_NAME" value="testTran1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HibernateTest.testSaveOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateTest2.useCriteria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HibernateDay02" />
       <extension name="coverage">
         <pattern>
@@ -171,14 +140,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xinlei.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest" />
-      <option name="METHOD_NAME" value="testSaveOrUpdate" />
+      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest2" />
+      <option name="METHOD_NAME" value="useCriteria" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HibernateTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateTest2.useSQLQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HibernateDay02" />
       <extension name="coverage">
         <pattern>
@@ -187,8 +156,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xinlei.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest" />
-      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="MAIN_CLASS_NAME" value="com.xinlei.test.HibernateTest2" />
+      <option name="METHOD_NAME" value="useSQLQuery" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HibernateTest2.testGet" />
-        <item itemvalue="JUnit.HibernateTest.testSaveOrUpdate" />
-        <item itemvalue="JUnit.HibernateTest.testDelete" />
-        <item itemvalue="JUnit.HibernateTest.testUpdate" />
-        <item itemvalue="JUnit.HibernateTest.testGet" />
+        <item itemvalue="JUnit.HibernateTest2.useSQLQuery" />
+        <item itemvalue="JUnit.HibernateTest2.useCriteria" />
+        <item itemvalue="JUnit.HibernateTest2.testTran1" />
+        <item itemvalue="JUnit.HibernateTest2.testTran" />
+        <item itemvalue="JUnit.HibernateTest2.testDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +186,12 @@
       <updated>1621840605285</updated>
       <workItem from="1621840606465" duration="5308000" />
       <workItem from="1621903152276" duration="12081000" />
-      <workItem from="1621926111793" duration="7353000" />
+      <workItem from="1621926111793" duration="8114000" />
+      <workItem from="1621988673981" duration="592000" />
+      <workItem from="1621993604468" duration="1199000" />
+      <workItem from="1622444001016" duration="3881000" />
+      <workItem from="1622507080506" duration="39000" />
+      <workItem from="1622601225716" duration="8962000" />
     </task>
     <servers />
   </component>
@@ -245,22 +219,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="183" y="200" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621840624488" />
-    <state width="1048" height="376" key="GridCell.Tab.0.bottom" timestamp="1621932913827">
+    <state width="404" height="466" key="DebuggerActiveHint" timestamp="1622616600595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1048" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621932913827" />
-    <state width="1048" height="376" key="GridCell.Tab.0.center" timestamp="1621932913826">
+    <state width="404" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1622616600595" />
+    <state width="1048" height="336" key="GridCell.Tab.0.bottom" timestamp="1622627959049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1048" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621932913826" />
-    <state width="1048" height="376" key="GridCell.Tab.0.left" timestamp="1621932913826">
+    <state width="1048" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959049" />
+    <state width="1048" height="336" key="GridCell.Tab.0.center" timestamp="1622627959048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1048" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621932913826" />
-    <state width="1048" height="376" key="GridCell.Tab.0.right" timestamp="1621932913827">
+    <state width="1048" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959048" />
+    <state width="1048" height="336" key="GridCell.Tab.0.left" timestamp="1622627959048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1048" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621932913827" />
+    <state width="1048" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959048" />
+    <state width="1048" height="336" key="GridCell.Tab.0.right" timestamp="1622627959049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1048" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959049" />
+    <state width="1048" height="336" key="GridCell.Tab.1.bottom" timestamp="1622627959049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1048" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959049" />
+    <state width="1048" height="336" key="GridCell.Tab.1.center" timestamp="1622627959049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1048" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959049" />
+    <state width="1048" height="336" key="GridCell.Tab.1.left" timestamp="1622627959049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1048" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959049" />
+    <state width="1048" height="336" key="GridCell.Tab.1.right" timestamp="1622627959049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1048" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622627959049" />
     <state x="243" y="187" key="SettingsEditor" timestamp="1621926165920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
